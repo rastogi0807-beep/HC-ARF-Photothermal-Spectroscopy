@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "counts": {
+    "episodes": 2688,
+    "records": 43956,
+    "posterior_states": 30516,
+    "action_decisions": 27828
+  },
+  "maximum_raw_record_replay_difference": 0.0,
+  "maximum_posterior_covariance_difference": 0.0,
+  "maximum_prior_scaled_objective_gradient": 8.670184199934432,
+  "frozen_source_hashes_match": true,
+  "scope": "Replay and numerical consistency; independent physical verification is recorded separately."
+}

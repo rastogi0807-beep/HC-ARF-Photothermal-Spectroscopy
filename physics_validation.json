@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "finite_volume": {
+    "32": {
+      "max_absolute_complex_error": 0.000976774342530421,
+      "max_relative_energy_residual": 4.555382526724137e-15
+    },
+    "64": {
+      "max_absolute_complex_error": 0.0002443524840694446,
+      "max_relative_energy_residual": 1.1768367928610425e-14
+    },
+    "128": {
+      "max_absolute_complex_error": 6.12470194316668e-05,
+      "max_relative_energy_residual": 1.700001817104548e-14
+    }
+  },
+  "max_scaled_derivative_error": 6.690059284331085e-09,
+  "exact_strength_concentration_alias_max_difference": 1.7763568394002505e-15,
+  "max_20_vs_80_mode_difference": 1.2958362956007524e-05,
+  "DC_normalization_error": 2.1186457432875727e-07,
+  "scope": "Independent numerical checks of declared equations; no full optical mode, gas-filling or laboratory validation."
+}

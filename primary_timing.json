@@ -1,0 +1,11 @@
+{
+  "cohort": "primary",
+  "episodes": 960,
+  "seconds": 13.309215649999715,
+  "workers": 4,
+  "BLAS_threads": "1",
+  "source_SHA256": {
+    "twin_core.py": "2537cde2402adf65c98c1a09ceb179eca2a59e491e321acb7af0654a102c4782",
+    "run_study.py": "1f1efe5904d6bcdfd51fa063740169ec20eca69a316b47bba4cc04a61e2a4120"
+  }
+}
